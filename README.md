@@ -66,7 +66,7 @@ Tengo como objetivo principal hacer un aporte a la sociedad, por medio del uso d
 
 ### Si no te emocionaste la primera ves que viste esto en pantalla, no sé a qué le llamas felicidad.  
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="800" />
+<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" align="center" height="300" width="800" />
 </div>  
   
 
